@@ -33,7 +33,7 @@ Clean architecture. Simple, fast, and production-ready.
 
 ## 📸 Screenshots
 
-> _(Add screenshots here if available — e.g., list of countries, dark mode, etc.)_
+![App Screenshot](https://github.com/shihabmi7/CountryGraphQL/blob/master/Screenshot_20250429_201414.png)
 
 ---
 
